@@ -53,3 +53,17 @@ h1 {
     font-style: italic;
     margin-bottom: 3px;
 }
+
+.fejiro {
+    background-color: purple;
+    color: white;
+    font-size: 14px;
+    text-align: center;
+    padding: 2px;
+    border-style: groove;
+}
+
+.Fejiro h3 {
+    font-size: larger;
+    font-style: normal;
+}
