@@ -17,6 +17,12 @@ body {
     height: 100vh;
 }
 
+.sticky_note {
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    grid-gap: 2rem;
+}
+
 h1 {
     text-align: center;
     border: 1px solid transparent;
@@ -25,4 +31,25 @@ h1 {
     width: 70%;
     margin: 1rem auto;
     font-size: 23px;
+}
+
+.perpetual {
+    width: 8rem;
+    height: 8rem;
+    background-color: aqua;
+    border: 1px solid white;
+    padding: 0.5rem;
+    border-radius: 4px;
+    text-align: center;
+}
+
+.perpetual h3 {
+    font-size: 1rem;
+    padding-bottom: 0.5rem;
+}
+
+.perpetual p {
+    font-size: 12px;
+    font-style: italic;
+    margin-bottom: 3px;
 }
