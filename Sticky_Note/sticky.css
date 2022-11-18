@@ -53,3 +53,26 @@ h1 {
     font-style: italic;
     margin-bottom: 3px;
 }
+
+.tobi {
+    width: 8rem;
+    height: 8rem;
+    background-color: red;
+    border: 1px solid white;
+    padding: 0.5rem;
+    border-radius: 4px;
+    text-align: center;
+}
+
+.tobi h3{
+    font-size: 1rem;
+    padding-bottom: 0.5rem;
+    color: white;
+}
+
+.tobi p {
+    font-size: 12px;
+    font-style: italic;
+    margin-bottom: 3px;
+    color: black;
+}
