@@ -114,3 +114,26 @@ h1 {
     font-size: 12px;
     padding-bottom: 3px;
 }
+
+.mercy {
+    background-color: royalblue;
+    color: gold;
+    font-size: 15px;
+    text-align: center;
+    padding: 4px;
+    border-style: double;
+    
+}
+
+.mercy h3{
+    color: greenyellow;
+    font-weight: bolder;
+    font-size: 25px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.mercy p{
+    font-style: italic;
+    font-weight: bold;
+
+}
