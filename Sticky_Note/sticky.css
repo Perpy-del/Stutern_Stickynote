@@ -137,3 +137,20 @@ h1 {
     font-weight: bold;
 
 }
+.ngozi{
+    width: 8rem;
+    height: 8rem;
+    background-color: antiquewhite;
+    border: 2px black solid;
+    text-align: center;
+    padding: 0.5rem;
+}
+.ngozi h3{
+padding-bottom: 0.5rem;
+font-size: 1.5rem;
+}
+.ngozi p{
+    font-style: italic;
+    margin-bottom: 1px;
+    font-size: 14px;    
+}
